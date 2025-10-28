@@ -38,7 +38,7 @@ Once you have Anaconda installed, you need to create a python environment for th
 - Open Anaconda
 - Go to the 'Environments' section
 - Click 'Import'
-- Select the path to the `windows_nmrc2025.yml` or `mac_nmrc2025.yml` file (depending on your laptop), which is in the zip file which you just downloaded, and choose a name for your environment.
+  - Select the path to the `enviornment_nmrc2025.yml` file, which is in the zip file which you just downloaded, and choose a name for your environment.
 
 Once your environment has been created:
 - In Anaconda on the left you find "environments" -> Click on the environment name which you just created (a green triangle should appear) -> This will 'activate' your environment. This might take some time to load, and you know that your environment is activated when a green triangle appears next to it. [When you activate an environment in Python, you're telling your computer to use a specific workspace, to make sure that the right versions of Python and the right tools are used for that project. It's like stepping into a room where everything is set up just the way you need it for this practical. This includes the version of Python which we are using, and also additional code which is necessary to run the practical and which we have set up beforehand for you]
